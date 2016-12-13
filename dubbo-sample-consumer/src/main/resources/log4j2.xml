@@ -4,7 +4,7 @@
 	<properties>
 		<!-- 设置日志的路径和文件名 -->
 		<property name="LOG_HOME">${sys:app.home}/logs/</property>
-		<property name="FILE_NAME">dubbo-sample-api</property>
+		<property name="FILE_NAME">dubbo-sample-consumer</property>
 	</properties>
 
 	<appenders>
